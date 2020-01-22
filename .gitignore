@@ -1,4 +1,5 @@
 .DS_Store
+package-lock.json
 
 # Logs
 logs
@@ -30,4 +31,4 @@ private
 dist
 
 # Configuration files
-.env
+.env*
